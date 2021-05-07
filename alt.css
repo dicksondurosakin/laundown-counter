@@ -58,6 +58,7 @@ h1{
     margin: 20% auto 0 auto;
     font-weight: 1000;
     width: max-content;
+    color: white;
 }
 
 @media(min-width: 540px) {
